@@ -1,0 +1,24 @@
+{
+  "number": 63,
+  "product_id": "JLZ-EDU-SK-051",
+  "chinese_name": "家长投诉回复",
+  "english_name": "Complaint Response Drafter",
+  "repository_name": "edu-complaint-response-drafter",
+  "product_type": "Skill",
+  "category": "05 家校服务中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-complaint-response-drafter-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "投诉分类、核实事实、机构可执行措施、沟通目标和边界",
+  "main_output": "回复草稿、共情与事实部分、解决方案、下一步和不可承诺清单",
+  "package_entries": [
+    "edu-complaint-response-drafter/SKILL.md",
+    "edu-complaint-response-drafter/references/DOMAIN_GUIDE.md",
+    "edu-complaint-response-drafter/references/EXAMPLES.md",
+    "edu-complaint-response-drafter/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

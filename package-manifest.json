@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-051",
+  "repository_name": "edu-complaint-response-drafter",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-complaint-response-drafter-v1.0.0.zip",
+  "sha256": "9ECDFFDEF42A79AA36AB3E60D0D8FEDF2816E34B8D31584DE9292DF87D00C5DC",
+  "bytes": 4818,
+  "entries": [
+    "edu-complaint-response-drafter/SKILL.md",
+    "edu-complaint-response-drafter/references/DOMAIN_GUIDE.md",
+    "edu-complaint-response-drafter/references/EXAMPLES.md",
+    "edu-complaint-response-drafter/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:41:19.7524682+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
